@@ -1,0 +1,16 @@
+class test
+{
+  public static void main(string[] args)
+  {
+      int x = 10;
+  }
+}
+
+
+q1.Identifier in the given code
+
+// test : name of class
+//main  : method
+//string :predefined class
+//args   :array name
+//x       : variable name
